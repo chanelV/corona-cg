@@ -6,7 +6,7 @@ permalink: 404.html
 
 @section('body')
 
-    <div class="page-head bg-color area-padding">
+    <div class="page-head bg-color area-padding ok">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12">
